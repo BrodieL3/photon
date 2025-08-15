@@ -1,50 +1,54 @@
-🌌 Photon – Web-Based Photo Editor
+<h1>🌌 Photon – Web-Based Photo Editor</h1>
 
-Photon is a fast, single-page web app for photo editing — no installs, no sign-ups, no downloads.
-It runs entirely in your browser, offering all the standard image editing tools plus advanced background removal, with export to PNG, JPEG, GIF, and SVG.
+<p>Photon is a fast, single-page web app for photo editing — no installs, no sign-ups, no downloads.
+It runs entirely in your browser, offering all the standard image editing tools plus advanced background removal, with export to PNG, JPEG, GIF, and SVG.</p>
 
-✨ Features
+<h2>✨ Features</h2>
+<ul>
+<li>Standard editing tools</li>
 
-Standard editing tools
+<li>Crop, resize, rotate, and flip</li>
 
-Crop, resize, rotate, and flip
+<li>Adjust brightness, contrast, saturation, hue</li>
 
-Adjust brightness, contrast, saturation, hue
+<li>Apply filters and effects</li>
 
-Apply filters and effects
+<li>Draw, add shapes, and text</li>
 
-Draw, add shapes, and text
 
-Advanced tools
+<li><b>🪄 Background removal – instantly remove image backgrounds in one click
+</b></li>
+<li>Multiple export formats</li>
 
-🪄 Background removal – instantly remove image backgrounds in one click
+<li>Save your work as PNG, JPEG, GIF, or SVG</li>
 
-Multiple export formats
+<li>100% client-side</li>
 
-Save your work as PNG, JPEG, GIF, or SVG
+<li>Runs entirely in your browser</li>
 
-100% client-side
+<li>No data uploads or server processing</li>
 
-Runs entirely in your browser
+<li>Works offline after first load</li>
+</ul>
 
-No data uploads or server processing
+<h2>🚀 How to Use</h2>
+<ol>
 
-Works offline after first load
+<li>Open Photon in your browser: https://brodiel3.github.io/photon</li>
 
-🚀 How to Use
+<li>Drag & drop an image into the workspace or use the Upload button.</li>
 
-Open Photon in your browser: https://yourdomain.com/photon
+<li>Use the toolbar to edit your image.</li>
 
-Drag & drop an image into the workspace or use the Upload button.
+<li>Click Export to save your image in your desired format.</li>
+</ol>
 
-Use the toolbar to edit your image.
+<h2>💡 Tips</h2>
+<ul>
+<li>Remove backgrounds first for cleaner edits.</li>
 
-Click Export to save your image in your desired format.
+<li>Export to SVG for vector shapes and text; use PNG for transparency.</li>
 
-💡 Tips
+<li>All processing happens locally — safe for private or sensitive images.</li>
 
-Remove backgrounds first for cleaner edits.
-
-Export to SVG for vector shapes and text; use PNG for transparency.
-
-All processing happens locally — safe for private or sensitive images.
+</ul>
